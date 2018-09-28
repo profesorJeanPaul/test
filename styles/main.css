@@ -45,3 +45,7 @@ header{
 main {
     padding: 10px;
 }
+
+img.carousel-image{
+    width: 265px;
+}
